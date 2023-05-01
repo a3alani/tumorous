@@ -24,7 +24,7 @@ Project Solution:
 
 <img width="639" alt="Screen Shot 2023-04-30 at 5 26 37 PM" src="https://user-images.githubusercontent.com/103146838/235384279-c8d05e7e-1b92-450f-8658-9a2099c054ab.png">
 
-- <img width="1011" alt="Screen Shot 2023-04-30 at 5 30 06 PM" src="https://user-images.githubusercontent.com/103146838/235384274-bdab226f-f3f2-4aa4-b6f9-92cc12bc4b36.png">
+<img width="1011" alt="Screen Shot 2023-04-30 at 5 30 06 PM" src="https://user-images.githubusercontent.com/103146838/235384274-bdab226f-f3f2-4aa4-b6f9-92cc12bc4b36.png">
 
 
 
