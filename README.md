@@ -32,6 +32,11 @@ We trained out dataset but splitting the cleaned up data into training and valid
 
 Our model received an accuracy of 68% on the evaluation dataset, we found that computational power, the overall complexity of liver tumors and also the imaging conditions played a role in us not having a higher accuracy.
 
+
+### GUI
+
+https://a3alani-tumorous-gui-j8owgj.streamlit.app/
+
 ### Built Using:
 - JupyturHub
 - Python
