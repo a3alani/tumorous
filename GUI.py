@@ -32,7 +32,7 @@ if uploaded_file is not None:
     col1, col2 = st.columns(2)
     with col1:
         st.caption("Input image")
-        st.image(cv2.cvtColor(image, cv2.COLOR_BGR2GRAY))
+        st.image(image)
     with col2:
         st.caption("Prediction")
         st.image(prediction, clamp=True, channels='RGB')
