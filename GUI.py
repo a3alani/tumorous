@@ -4,7 +4,6 @@ import pandas as pd
 from keras import models
 import matplotlib.pyplot as plt
 from PIL import Image
-import cv2
 import tensorflow as tf
 from io import BytesIO
 
