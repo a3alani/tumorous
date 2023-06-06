@@ -14,3 +14,5 @@ tensorflow==2.12.0
 tensorflow-estimator==2.12.0
 tensorflow-intel==2.12.0
 tensorflow-io-gcs-filesystem==0.30.0
+nibabel==5.1.0
+evalseg==2.7
