@@ -28,11 +28,11 @@ We selected U-NET as our model after researching what past medical segmentation 
 
 We trained out dataset but splitting the cleaned up data into training and validation. As well as using a MSE loss function.
 
-#### Results
+### Results
 
 Our model received an accuracy of 68% on the evaluation dataset, we found that computational power, the overall complexity of liver tumors and also the imaging conditions played a role in us not having a higher accuracy.
 
-## Built Using:
+### Built Using:
 - JupyturHub
 - Python
 - Streamlit (GUI)
