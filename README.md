@@ -10,7 +10,7 @@ Project Solution:
 
 ### Data Collecting and Cleaning
 
-The dataset we were provided with was:
+The dataset we were provided with was
 [Dataset](https://www.kaggle.com/datasets/modaresimr/medical-image-segmentation):
 
 This dataset had files seperating ground truth files and raw CT scans. The ground truth are files that have been checked by radiologists.
