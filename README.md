@@ -40,6 +40,9 @@ Our model received an accuracy of 68% on the evaluation dataset, we found that c
 
 
 
+### Poster
+
+<img width="1023" alt="Screenshot 2023-06-05 at 6 51 44 PM" src="https://github.com/a3alani/tumorous/assets/103146838/54734924-f8b9-40e3-9b01-9462e179a7da">
 
 
 
