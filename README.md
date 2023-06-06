@@ -22,7 +22,7 @@ We converted all the CT scan files into slices of PNG files, making sure to keep
 
 ### Model Used
 
-We selected U-Net as our model after researching and checking what past medical segmentation projects have done we found that U-NET is very well known for this.
+We selected U-NET as our model after researching what past medical segmentation projects have done we found that U-NET is very well known for this.
 
 #### Model Training
 
