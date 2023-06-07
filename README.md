@@ -47,7 +47,8 @@ https://a3alani-tumorous-gui-j8owgj.streamlit.app/
 
 ### Poster
 
-<img width="1023" alt="Screenshot 2023-06-05 at 6 51 44 PM" src="https://github.com/a3alani/tumorous/assets/103146838/54734924-f8b9-40e3-9b01-9462e179a7da">
+[Tumor_Presentation_Final.pdf](https://github.com/a3alani/tumorous/files/11681455/Tumor_Presentation_Final.pdf)
+
 
 
 
